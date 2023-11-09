@@ -6,7 +6,7 @@ import websockets
 from datetime import datetime
 
 # Constants
-DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1163286545646759986/O0AG4AcOb5YzVI6wthK2JxBOlUzNqYXURnGG4E5UY7i3bAWLq2kpOYGPBALzyoVXwHni"
+DISCORD_WEBHOOK = ""
 RBXGOLD_API_URL = "wss://api.rbxgold.com/socket.io/?EIO=4&transport=websocket"
 RAIN_ALERT_THRESHOLD = 60  # seconds
 
