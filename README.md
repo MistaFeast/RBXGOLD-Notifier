@@ -31,7 +31,7 @@ Simply execute the following command in your terminal:
 ```bash
 python ./main.py
 ```
-The script will connect to the RBXGOLD API and start monitoring rain events. When rain is detected, it will send a Discord notification to everyone in the server.
+The script will connect to the RBXGOLD API and start monitoring rain events. When a rain is detected, it will send a Discord notification to your webhook.
 
 ## Customization
 
